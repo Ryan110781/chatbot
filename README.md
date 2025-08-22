@@ -83,16 +83,13 @@ pnpm run build
 - 不會傳送到任何第三方伺服器
 - 所有 API 呼叫直接從瀏覽器發送到 Google
 
-## 授權
-
-MIT License
-
 ## 貢獻
 
 歡迎提交 Issue 和 Pull Request！
 
 
-
+##### License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 <!-- Trigger GitHub Actions -->
 
